@@ -76,3 +76,5 @@ Use `-p` or `--port` flag to change the default web server port:
 If you like this project, please consider doing the following:
 * Starring on GitHub
 * [Buying me a coffee](https://www.buymeacoffee.com/iaroslav)
+
+[![BuyMeACoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/iaroslav)
