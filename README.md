@@ -26,12 +26,7 @@ Diagram of the project:
         virtualenv metrics-server-env
         metrics-server-env\Scripts\activate.bat
         
-        pip install pillow
-        pip install pytesseract
-        pip install numpy
-        pip install opencv-python
-        pip install pywin32
-        pip install flask-restful
+        pip install -r requirements.txt
 
 # Running the Peloton Bike Metrics Server
 
